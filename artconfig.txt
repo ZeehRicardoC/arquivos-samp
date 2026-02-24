@@ -1,2 +1,0 @@
-AddSimpleModel(-1, 19379, -20000, "blankmodel.dff", "login.txd");
-
