@@ -1,7 +1,0 @@
-AddSimpleModel(-1, 19379, -20000, "NoModelFile.dff", "login.txd");
-AddSimpleModel(-1, 19379, -20001, "NoModelFile.dff", "sistema_banco.txd");
-
-
-
-
-
